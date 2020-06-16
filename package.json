@@ -1,12 +1,12 @@
 {
-  "name": "pizza-math-orig",
+  "name": "pizza-math",
   "version": "0.0.1",
   "description": "Calculates the best value pizza!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["pizza", "math", "calculator", "javascript", "js"],
   "author": {
     "name": "Erik Koopmans",
     "email": "ekoopmans@dius.com.au"
